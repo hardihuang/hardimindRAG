@@ -1,0 +1,15 @@
+# Environment
+.env
+
+# ChromaDB data directory (auto-generated)
+chroma_db/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+
+# macOS
+.DS_Store

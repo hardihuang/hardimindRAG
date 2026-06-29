@@ -1,0 +1,6 @@
+chromadb
+streamlit
+numpy
+requests
+python-frontmatter<1.0
+python-dotenv
